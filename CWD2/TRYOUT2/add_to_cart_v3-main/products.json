@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" 101 SCARLET ELEGANCE",
+        "price": 200,
+        "image": "image/taylor.png"
+    },
+    {
+        "id": 2,
+        "name":"102 CRIMSON ALLURE",
+        "price": 250,
+        "image": "image/model.png"
+    },
+    {
+        "id": 3,
+        "name":"103 MIDNIGHT GRACE",
+        "price": 290,
+        "image": "image/model3.png"
+    },
+    {
+        "id": 4,
+        "name":"104 NOIR NIGHTFALL",
+        "price": 200,
+        "image": "image/model2.png"
+    },
+    {
+        "id": 5,
+        "name":" 105 EMERALD WHIMSY",
+        "price": 300,
+        "image":"image/model7.png"
+    },
+    {
+        "id": 6,
+        "name":" 106 SNOWDROP SERENITY",
+        "price": 200,
+        "image": "image/wedding.png"
+    },
+    {
+        "id": 7,
+        "name":" 107 LAVENDER BLOOM",
+        "price": 200,
+        "image": "image/newdress.png"
+    },
+    {
+        "id": 8,
+        "name":" 108 ROYAL VELVET: TWILIGHT ALLURE",
+        "price": 200,
+        "image": "image/model4.png"
+    }
+
+]
